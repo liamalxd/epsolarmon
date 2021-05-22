@@ -2,7 +2,7 @@
 Solar data stats script for EPEVER MPPT Charge Controllers
 ---
 
-This was my solution to pulling stats from my EPEVER 3210AN charge controller via the EPEVER WiFi Box.  
+This was my solution to pulling stats from my EPEVER 3210AN charge controller via the EPEVER WiFi Box. You will need to install pymodbus via pip for this to work.  
 
 The WiFi box exposes the RS485 Serial connection on TCP/8088 by default. You can then query the controller via Modbus.  
 
