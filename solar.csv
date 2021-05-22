@@ -1,0 +1,2 @@
+time,solarvoltage,solarcurrent,solarpwrlow,solarpwrhigh,batteryvoltage,chargecurrent,chargepwrlow,chargepwrhigh,loadvoltage,loadcurrent,loadpower,batterypercentage,generatedenergytoday,generatedenergymonth,generatedenergyyear,generatedenergytotal
+20210522-201401,13.16,0.0,0.0,0.0,11.98,0.0,0.0,0.0,11.98,0.0,0.0,32.0,0.09,0.17,0.17,0.17
