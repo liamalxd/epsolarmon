@@ -1,5 +1,5 @@
 ---
-Solar data stats script for EPEVER MPPT Charge Controller
+Solar data stats script for EPEVER MPPT Charge Controllers
 ---
 
 This was my solution to pulling stats from my EPEVER 3210AN charge controller via the EPEVER WiFi Box.  
