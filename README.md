@@ -11,3 +11,5 @@ You'll need to reconfigure your EPEVER WiFi box to run in STA mode rather than A
 If you are just wanting to connect and monitor the controller via serial I highly recommend https://github.com/alexnathanson/EPSolar_Tracer who's work helped a lot with figuring out how to query the controller.  
 
 Personally I am ingesting the CSV generated via Telegraf into InfluxDB, then viewing the metrics in Grafana like so.  
+
+![alt text](https://github.com/liamalxd/epsolarmon/blob/main/dc2power1.PNG)
