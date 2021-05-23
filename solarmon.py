@@ -47,7 +47,7 @@ def read_data(client):
     result = client.read_input_registers(0x311A,2,unit=1)
 
     if hasattr(result, 'registers'):
-        results['batterypercentage'] = float(result.registers[0] / 100.0)
+        results['batterypercentage'] = float(result.registers[0])
 
     result = client.read_input_registers(0x330C,2,unit=1)
 
